@@ -1,2 +1,3 @@
 # blood-vessel-diameter
-Analysis of blood vessel diameter in Python
+
+This repo contains Python notebooks for analysis of blood vessel diameter in Python.
